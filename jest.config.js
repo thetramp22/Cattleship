@@ -1,1 +1,6 @@
-testEnvironment: "jest-environment-node-single-context";
+export default {
+    testEnvironment: "jest-environment-node-single-context",
+    transform: {
+        "^.+\\.js$": "babel-jest",
+    },
+};
