@@ -1,11 +1,11 @@
-# project-template
+# cattleship
 
-This is a template holding tools and folder structure to start a new project.
+The project is an assignment in the JavaScript Course on [The Odin Project](https://www.theodinproject.com/).  The full assignment instructions can be found [here](https://www.theodinproject.com/lessons/node-path-javascript-battleship).
 
 ## Tools
 
-Webpack
-ESlint
-Prettier
-Sass
-Jest
+- Webpack
+- ESlint
+- Prettier
+- Sass
+- Jest
